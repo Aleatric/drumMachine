@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/drumMachine/static/css/main.75f7846b.css",
+    "main.js": "/drumMachine/static/js/main.60009dda.js",
+    "static/js/787.c419f7a1.chunk.js": "/drumMachine/static/js/787.c419f7a1.chunk.js",
+    "static/media/808_Kick.wav": "/drumMachine/static/media/808_Kick.5fb7406aa96aa8e973c2.wav",
+    "static/media/rockSnare.wav": "/drumMachine/static/media/rockSnare.468f7bf6a227697652a7.wav",
+    "static/media/808_Hat.wav": "/drumMachine/static/media/808_Hat.9ebff9f9d0cf9f3caa89.wav",
+    "static/media/808_Snare.wav": "/drumMachine/static/media/808_Snare.f280c550939803a4fd1c.wav",
+    "static/media/Infinity_Hat.wav": "/drumMachine/static/media/Infinity_Hat.e5e51f2b2ee253a088ae.wav",
+    "static/media/Infinity_Kick.wav": "/drumMachine/static/media/Infinity_Kick.341ed9ec78393f8527c1.wav",
+    "static/media/Infinity_Snare.wav": "/drumMachine/static/media/Infinity_Snare.d5730514683a69786ef4.wav",
+    "static/media/rockHat.wav": "/drumMachine/static/media/rockHat.7b583504d5ad8cd2b059.wav",
+    "static/media/rockKick.wav": "/drumMachine/static/media/rockKick.54b2a455e2fcabdffd24.wav",
+    "index.html": "/drumMachine/index.html",
+    "main.75f7846b.css.map": "/drumMachine/static/css/main.75f7846b.css.map",
+    "main.60009dda.js.map": "/drumMachine/static/js/main.60009dda.js.map",
+    "787.c419f7a1.chunk.js.map": "/drumMachine/static/js/787.c419f7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f7846b.css",
+    "static/js/main.60009dda.js"
+  ]
+}
